@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gipi333/gipi333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
@@ -22,6 +8,11 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gipi333&label=Profile%20views&color=0e75b6&style=flat" alt="gipi333" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gipi333" alt="gipi333" /></a> </p>
+
+
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: guillaume.laboureur@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
