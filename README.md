@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Guillaume</h1>
 
 
 <h3 align="center">A passionate developer from Belgium</h3>
